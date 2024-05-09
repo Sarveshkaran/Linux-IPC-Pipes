@@ -23,8 +23,8 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 ```
-DEVELOPED BY:Archana k
-REG.NO:212222240011
+DEVELOPED BY: SARVESHKARAN VK
+REG.NO:212221230089
 ```
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 ```
